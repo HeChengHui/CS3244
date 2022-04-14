@@ -1,4 +1,4 @@
-month ,town,flat_type,block,street_name,mean_storey,floor_area_sqm,lease_commence_date,resale_price,adj_resale_price,price_per_sqm,adj_price_per_sqm,accom_cpi,clean_remaining_lease,time_to_mrt,time_to_hawker,time_to_mall
+month,town,flat_type,block,street_name,mean_storey,floor_area_sqm,lease_commence_date,resale_price,adj_resale_price,price_per_sqm,adj_price_per_sqm,accom_cpi,clean_remaining_lease,time_to_mrt,time_to_hawker,time_to_mall
 2000-01,SENGKANG,4 ROOM,7,SELETAR WEST FARMWAY 6,5,92,1980,175000,230378.3471,1902.173913,2504.112468,75.962,79,32,30,28
 2000-07,SENGKANG,4 ROOM,5,SELETAR WEST FARMWAY 6,2,92,1980,176000,231378.0138,1913.043478,2514.978411,76.066,79,32,30,28
 2000-08,SENGKANG,4 ROOM,5,SELETAR WEST FARMWAY 6,5,92,1980,149000,195879.9479,1619.565217,2129.129869,76.067,79,32,30,28
